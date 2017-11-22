@@ -1,0 +1,25 @@
+PODS:
+  - EDStarRating (1.1)
+  - GoogleMaps (1.10.3)
+  - googleplus-ios-sdk (1.7.1)
+  - JSQMessagesViewController (7.2.0):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - SCLAlertView-Objective-C (0.7.7)
+
+DEPENDENCIES:
+  - EDStarRating
+  - GoogleMaps
+  - googleplus-ios-sdk (~> 1.7.1)
+  - JSQMessagesViewController
+  - SCLAlertView-Objective-C
+
+SPEC CHECKSUMS:
+  EDStarRating: a41a6440a945020745d0e9ff8ada7d1afa952114
+  GoogleMaps: 945e4ac3b74bcca3ddada51df256eb7beddb474d
+  googleplus-ios-sdk: 065d9135061a5f84c07656a68ced48336408fe35
+  JSQMessagesViewController: 73cab48aa92fc2d512f3b6724f3425cc47a19eb5
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  SCLAlertView-Objective-C: 062808b4664add2d38d44b7867267985a02267ad
+
+COCOAPODS: 0.39.0.beta.4

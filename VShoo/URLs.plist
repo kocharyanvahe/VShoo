@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StartDeviceAPK</key>
+	<string>https://www.vshoo.com/start_device_apk.htm</string>
+	<key>GetCarTypes</key>
+	<string>https://core.hollor.com/transportation_online/GetCarTypes</string>
+	<key>GetPlacesByAddress</key>
+	<string>https://maps.google.com/maps/api/geocode/json?address=%@&amp;sensor=true&amp;key=%@</string>
+	<key>LogoutURL</key>
+	<string>https://www.vshoo.com/session_logout_account.htm</string>
+	<key>SendDeviceData</key>
+	<string>https://core.hollor.com/transportation_online/SendDeviceData</string>
+	<key>GooglePlusClientID</key>
+	<string>887204055067-r33qgub3lc9na4f5iovbhlk6h9isohjr.apps.googleusercontent.com</string>
+	<key>GoogleMapsDirectionURL</key>
+	<string>http://maps.googleapis.com/maps/api/geocode/json?latlng=%.8f,%.8f&amp;sensor=true</string>
+	<key>AvailablePartitionURL</key>
+	<string>m-load-available-partitions.htm</string>
+	<key>GetSessionId</key>
+	<string>/session_login_account.htm</string>
+	<key>GooglePlacesAPIURL</key>
+	<string>https://maps.googleapis.com/maps/api/place/autocomplete/json?input=%@&amp;types=geocode&amp;sensor=true&amp;key=%@</string>
+	<key>PlacesAPIKey</key>
+	<string>AIzaSyBeRTihfowmv0YKedjrZlAPRbONghqA9Hs</string>
+	<key>GetLocationByPlaceID</key>
+	<string>https://maps.googleapis.com/maps/api/place/details/json?input=bar&amp;placeid=%@&amp;key=%@</string>
+	<key>GetDistanceByLocation</key>
+	<string>http://maps.googleapis.com/maps/api/distancematrix/json?origins=%f,%f&amp;destinations=%f,%f&amp;mode=driving&amp;language=en&amp;sensor=true&amp;units=imperial</string>
+	<key>EstimateRideURL</key>
+	<string>https://core.hollor.com/transportation_online/EstimateRide</string>
+	<key>FindNearestWayURL</key>
+	<string>http://maps.googleapis.com/maps/api/directions/json?origin=%.8f,%.8f&amp;destination=%.8f,%.8f&amp;sensor=true&amp;mode=driving</string>
+	<key>OrderURL</key>
+	<string>https://core.hollor.com/transportation_online/GetOrderFromCustomer</string>
+	<key>GetCustomerStatus</key>
+	<string>https://core.hollor.com/transportation_online/GetCustomerStatus</string>
+	<key>GetDriverInfo</key>
+	<string>https://core.hollor.com/transportation_online/GetDriverInfo</string>
+	<key>FinishingOrder</key>
+	<string>https://core.hollor.com/transportation_online/FinishingOrder</string>
+	<key>HotzoneURL</key>
+	<string>https://core.hollor.com/transportation_online/IsInHotZone</string>
+	<key>SendSMSURL</key>
+	<string>https://core.hollor.com/transportation_online/Chating</string>
+	<key>RateDriverURL</key>
+	<string>https://core.hollor.com/transportation_online/RateDriver</string>
+	<key>VShooDomain</key>
+	<string>https://www.vshoo.com/</string>
+	<key>CustomStartURL</key>
+	<string>/custom_start.htm</string>
+	<key>ReferralURL</key>
+	<string>https://core.hollor.com/transportation_online/Referral</string>
+	<key>GoogleMapsAPIKey</key>
+	<string>AIzaSyDIivganE5QsYLJK5yuRlvweZWGfgoi1Ss</string>
+</dict>
+</plist>

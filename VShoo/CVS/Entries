@@ -1,0 +1,42 @@
+D/AFNetworking////
+D/Animations////
+D/BackgroundViewImages.xcassets////
+D/Base.lproj////
+D/BottomAvatar.xcassets////
+D/Categories////
+D/Classes////
+D/EstimateOrderAlertViewImages.xcassets////
+D/EstimateScreenImages.xcassets////
+D/HomeWorkViewImages.xcassets////
+D/Images.xcassets////
+D/LeftViewImages.xcassets////
+D/Networking////
+D/PopinView////
+D/RatingViewImages.xcassets////
+D/SliderSegmentedControlImages.xcassets////
+D/SpecialRequestImages.xcassets////
+D/UI////
+D/Utils////
+D/VShoo.xcdatamodeld////
+D/VShooMainScreenImages.xcassets////
+D/ViewControllers////
+D/en.lproj////
+D/hy.lproj////
+D/iCarousel////
+D/ru.lproj////
+/.DS_Store/1.1/Thu Feb 11 10:42:46 2016/-kb/
+/AppDelegate.h/1.1/Tue Nov 24 08:39:14 2015/-ko/
+/AppDelegate.m/1.1/Thu Nov 26 07:03:17 2015/-ko/
+/Info.plist/1.1/Wed Feb 10 09:24:32 2016/-ko/
+/MANDATOR.ttf/1.1/Sat Mar 13 07:55:38 2010/-kb/
+/Messages+CoreDataProperties.h/1.1/Wed Nov 25 10:25:15 2015/-ko/
+/Messages+CoreDataProperties.m/1.1/Wed Nov 25 10:25:15 2015/-ko/
+/Messages.h/1.1/Fri Nov 27 05:37:36 2015/-ko/
+/Messages.m/1.1/Fri Nov 27 06:05:11 2015/-ko/
+/Reachability.h/1.1/Tue Feb 04 22:02:48 2014/-ko/
+/Reachability.m/1.1/Wed Jun 17 10:17:15 2015/-ko/
+/SlideNavigationController.h/1.1/Fri Aug 28 07:11:26 2015/-ko/
+/SlideNavigationController.m/1.1/Fri Aug 28 07:11:11 2015/-ko/
+/URLs.plist/1.1/Fri Jan 29 12:08:26 2016/-ko/
+/VShoo-Prefix.pch/1.1/Thu Nov 19 12:04:25 2015/-ko/
+/main.m/1.1/Wed Jun 17 08:46:38 2015/-ko/

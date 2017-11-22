@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  VShoo
+
+  Created by Vahe Kocharyan on 8/28/15.
+  Copyright (c) 2015 ConnectTo. All rights reserved.
+*/
+
+"My Wallet" = "Իմ Դրամապանակը";
+"Preferences" = "Նախընտրանքներ";
+"Default Request Settings" = "Սկզբնական հարցման կառավարում";
+"Trip History" = "Ուղեւորության պատմություն";
+"Add Home Address" = "Տան հասցե";
+"Add Work Address" = "Աշխատանքային հասցե";
+"Social Network" = "Սոցիալական ցանց";
+"Refer a customer" = "Հրավիրել հաճախորդի";
+"Select sharing option:" = "Ընտրեք համօգտագործման տարբերակ:";
+"Share on Facebook" = "Տարածել Facebook-ում";
+"Share on Twitter" = "Տարածել Twitter-ում";
+"Share on Google+" = "Տարածել Google+ում";
+"Cancel" = "Հրաժարվել";
+"Select refer option:" = "Ընտրեք տարբերակ:";
+"Send an email" = "Ուղարկել նամակ";
+"Send SMS" = "Ուղարկել SMS";
+"Failed" = "Չհաջողվեց";
+"Please, try again." = "Խնդրում ենք կրկին փորձել:";
+"Sent" = "Հաջողությամբ ուղարկվել է";
+"Your message has been sent." = "Ձեր հաղորդագրությունը ուղարկված է:";
+"ERROR" = "ՍԽԱԼ";
+"Order/Estimate" = "Պատվիրել/Գնահատել";
+"You can customize your ride by tapping on Estimate button. Also, you can make a quick order." = "Դուք կարող եք փոփոխել ձեր ուղեւորությունը սեղմելով Գնահատել կոճակը: Բացի այդ, դուք կարող եք արագ պատվիրել:";
+"Order" = "Պատվիրել";
+"Estimate" = "Գնահատել";
+"Cannot find" = "Հնարավոր չէ գտնել";
+"pickup location" = "ընտրել վայրը";
+"To Home" = "Գնալ տուն";
+"To Work" = "Գնալ աշխատանքի";
+"From Home" = "Տանից";
+"From Work" = "Աշխատավայրից";
+"From" = "Սկզբնական դիրք";
+"To" = "Վերջնական դիրք";
+"There is no any available cars at this moment. Please, add starting/final destinations." = "Չկա հասանելի ավտոմեքենա այս պահին: Խնդրում ենք, ավելացնել սկզբնական/վերջնական ուղղությունները:";
+"Could not find any address." = "Չհաջողվեց գտնել որեւէ հասցե:";
+"Select a car" = "Ընտրել մեքենան";
+"Home" = "Տան";
+"Work" = "Աշխատանքային";
+"Search" = "Որոնում";
+"Special Request" = "Հատուկ Ծանուցում";
+"Estimated Cost:" = "Արժեք:";
+"Actual cost can be more, due to unforeseen circumstances." = "Փաստացի ծախսերը կարող են լինել շատ ավելի, անկանխատեսելի հանգամանքներից ելնելով:";
+"Cannot find the nearest way." = "Հնարավոր չէ գտնել մոտակա ճանապարհը:";
+"Start" = "Սկիզբ";
+"Finish" = "Վերջնակետ";
+"Please, type exact address." = "Խնդրում ենմ, մուտքագրել ճշգրիտ հասցեն:";
+"Change region" = "Փոխել Տարածաշրջանը";
+"Currently, you are in hot zone. The estimated price was increased by %fx times. Do you want to continue this order ?" = "Այս պահին դուք տաք գոտում եք: Մոտավոր գինը աճել է %fx անգամ: Ցանկանում եք շարունակել այս պատվերը ?";
+"Yes" = "Այո";
+"No" = "Ոչ";
+"Message" = "Հաղորդագրություն";
+"Call" = "Զանգահարել";
+"Finish" = "Ավարտել";
+"Next" = "Հաջորդ";
+"Please, make a setup of your email in your phone." = "Խնդրում ենք, կարգավորեք ձեր էլեկտրոնային փոստի հասցեն";
+"Saved" = "Պահպանվել է";
+"Your message has been sent." = "Ձեր հաղորդագրությունը պահպանվել է:";
+"OK" = "Լավ";
+"Are you sure ?" = "Դուք համոզված եք ?";
+"%@%@ %@ you need to pay by cash." = "%@%@ %@ դուք պետք է վճարեք կանխիկ:";
+"%@%@ %@ you will be charged from your wallet." = "%@%@ %@ կգանձվի ձեր դրամապանակից:";
+"Make a call" = "Կատարել զանգ";
+"Are you sure you want to call to %@ ?" = "Համոզված եք, որ ուզում եք զանգահարել այս համարին %@ ?";
+"Please type the number" = "Խնդրում ենք մուտքագրել համարը";

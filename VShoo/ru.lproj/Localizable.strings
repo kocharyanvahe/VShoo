@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  VShoo
+
+  Created by Vahe Kocharyan on 8/28/15.
+  Copyright (c) 2015 ConnectTo. All rights reserved.
+*/
+
+
+"My Wallet" = "Мой бумажник";
+"Preferences" = "Предпочтения";
+"Default Request Settings" = "По умолчанию Запрос Настройки";
+"Trip History" = "История поездки";
+"Add Home Address" = "Домашний адрес";
+"Add Work Address" = "Рабочий адрес";
+"Social Network" = "Социальная сеть";
+"Refer a customer" = "Привести клиента";
+"Select sharing option:" = "Выберите опцию совместного:";
+"Share on Facebook" = "Поделиться на Facebook";
+"Share on Twitter" = "Поделиться на Twitter";
+"Share on Google+" = "Поделиться на Google+";
+"Cancel" = "Отменить";
+"Select refer option:" = "Выберите опцию:";
+"Send an email" = "Отправить письмо";
+"Send SMS" = "Отправить SMS";
+"Failed" = "Не удалось";
+"Please, try again." = "Пожалуйста, попробуйте еще раз.";
+"Sent" = "Отправлено";
+"Your message has been sent." = "Ваше сообщение было отправлено.";
+"ERROR" = "ОШИБКА";
+"Order/Estimate" = "Заказать/Оценить";
+"You can customize your ride by tapping on Estimate button. Also, you can make a quick order." = "Вы можете изменить вашу поездку, нажав на кнопку Оценить. Кроме того, вы можете сделать быстрый заказ.";
+"Order" = "Заказать";
+"Estimate" = "Оценить";
+"Cannot find" = "Не может найти";
+"pickup location" = "выбрать место";
+"To Home" = "Домой";
+"To Work" = "Идти на работу";
+"From Home" = "Из дома";
+"From Work" = "С работы";
+"From" = "Начальная позиция";
+"To" = "Конечная позиция";
+"There is no any available cars at this moment. Please, add starting/final destinations." = "Не существует доступные автомобили на данный момент. Пожалуйста, добавьте начиная/конечная назначения.";
+"Could not find any address." = "Не удалось найти адрес.";
+"Select a car" = "Выбрать автомобиль";
+"Home" = "Домашний";
+"Work" = "Рабочий";
+"Search" = "Искать";
+"Special Request" = "Специальный запрос";
+"Estimated Cost:" = "Стоимость:";
+"Actual cost can be more, due to unforeseen circumstances." = "Фактическая стоимость может быть и больше, из-за непредвиденных обстоятельств.";
+"Cannot find the nearest way." = "Не возможно найти ближайший путь.";
+"Start" = "Старт";
+"Finish" = "Конец";
+"Please, type exact address." = "Пожалуйста, введите точный адрес.";
+"Change region" = "Изменить регион";
+"Currently, you are in hot zone. The estimated price was increased by %fx times. Do you want to continue this order ?" = "В настоящее время вы находитесь в горячей зоне. Ориентировочная цена была увеличена в разы %fx. Хотите продолжить этот заказ ?";
+"Yes" = "Да";
+"No" = "Нет";
+"Message" = "Сообщение";
+"Call" = "Вызов";
+"Finish" = "Заканчивать";
+"Next" = "Следующий";
+"Please, make a setup of your email in your phone." = "Пожалуйста, сделайте настройку вашей электронной почты в телефоне.";
+"Saved" = "Сохранена";
+"Your message was saved." = "Ваше сообщение было сохранено.";
+"OK" = "ОК";
+"Are you sure ?" = "Вы уверенны ?";
+"%@%@ %@ you need to pay by cash." = "%@%@ %@ необходимо произвести оплату наличными.";
+"%@%@ %@ you will be charged from your wallet." = "%@%@ %@ вы платили из вашего кошелька.";
+"Make a call" = "Позвонить";
+"Are you sure you want to call to %@ ?" = "Вы уверены, что хотите звонить в %@ ?";
+"Please type the number" = "Пожалуйста, введите номер";

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>EDStarRating.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>JSQMessagesViewController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>JSQSystemSoundPlayer.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SCLAlertView-Objective-C.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>10F4C8D8F958F41A11C53EA66BEA8DB6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>48C143936C9B0E5BA77910C0F92F39DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A33121F7C21A409532F86607209DBE40</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C6D73A0CBA54964BB47E65C70288AC2A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F533145D7E13482DEF13E01C325D2E74</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

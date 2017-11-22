@@ -1,0 +1,34 @@
+//
+//  VShoo-Prefix.pch
+//  VShoo
+//
+//  Created by Vahe Kocharyan on 6/17/15.
+//  Copyright (c) 2015 ConnectTo. All rights reserved.
+//
+
+#ifndef VShoo_VShoo_Prefix_pch
+#define VShoo_VShoo_Prefix_pch
+
+#define SYSTEM_VERSION_EQUAL_TO(v)                  ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedSame)
+#define SYSTEM_VERSION_GREATER_THAN(v)              ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedDescending)
+#define SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(v)  ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedAscending)
+#define SYSTEM_VERSION_LESS_THAN(v)                 ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedAscending)
+#define SYSTEM_VERSION_LESS_THAN_OR_EQUAL_TO(v)     ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedDescending)
+
+#define kDidReceiveRemoteNotification @"UIApplicationDidReceiveRemoteNotification"
+
+#define kDriverAcceptedOrder 2
+#define kDriverAtLocation 3
+#define kDriverCustomerDidNotShow 4
+#define kDriverInProgress 5
+#define kDriverParking 6
+#define kDriverExtraStop 7
+#define kDriverTollRoad 8
+#define kDriverCompleteOrder 9
+#define kDriverCancel 10
+#define kDriverNotAccept 12
+#define kDriverHotZone 14
+#define kDriverSetDestination 16
+#define kDriverChat 18
+
+#endif
